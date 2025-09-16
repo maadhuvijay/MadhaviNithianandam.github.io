@@ -7,13 +7,9 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-black?logo=NumPY)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#) [![](https://img.shields.io/badge/OpenAI-black?logo=OpenAI)](#)  [![](https://img.shields.io/badge/OpenCV-black?logo=OpenCV)](#)   
 
-[View code on Colab](https://colab.research.google.com/github/maadhuvijay/Project3-Lego-Classifier/blob/main/Lego_classifier_new.ipynb)
+[View project on Github](https://github.com/maadhuvijay/Project3-Lego-Classifier)
 
-## Data Pre-processing [ Resizing, Edge detection, Padding]
-
-![image](https://github.com/user-attachments/assets/9875ea42-6ec0-4648-9631-bc51be5eb111)
-
-![image](https://github.com/user-attachments/assets/c1a99fdf-dd43-4dda-812e-dc45dcfe72eb)
+## Image Pre-processing [Resizing, Edge detection, Padding]
 
 ![image](https://github.com/user-attachments/assets/11194b5a-144f-4ac5-af83-abf70c1ff81e)
 ![image](https://github.com/user-attachments/assets/fe8aa147-d9af-4514-b9b7-becadd5bafc6)
