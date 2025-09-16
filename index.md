@@ -1,29 +1,21 @@
-## Portfolio
+## Projects in Data science, Machine Learning and NLP
+
+
+
+### AI powered Lego Brick classifier  
+A CNN based lego image classifier build using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
+[View code on Colab](https://colab.research.google.com/github/maadhuvijay/Project3-Lego-Classifier/blob/main/Lego_classifier_new.ipynb))
 
 ---
 
-### Category Name 1 
+### H5N1 Outbreak Prediction Model
+A spatial-temporal machine learning model to forecast bird flu outbreaks using environmental, host, and location-based factors, applying Principal Component Analysis and clustering for feature optimization.
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
