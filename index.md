@@ -3,11 +3,11 @@
 
 
 ### AI powered Lego Brick classifier  
-A CNN based lego image classifier build using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
+A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-black?logo=NumPY)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#) [![](https://img.shields.io/badge/OpenAI-black?logo=OpenAI)](#)  [![](https://img.shields.io/badge/OpenCV-black?logo=OpenCV)](#)   
 
-[View code on Colab](https://colab.research.google.com/github/maadhuvijay/Project3-Lego-Classifier/blob/main/Lego_classifier_new.ipynb))
+[View code on Colab](https://colab.research.google.com/github/maadhuvijay/Project3-Lego-Classifier/blob/main/Lego_classifier_new.ipynb)
 
 ---
 
