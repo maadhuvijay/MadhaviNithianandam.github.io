@@ -2,7 +2,7 @@
 
 
 
-### AI powered Lego Brick classifier  
+### AI powered Lego image classifier  
 A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#) [![](https://img.shields.io/badge/OpenAI-black?logo=OpenAI)](#)  [![](https://img.shields.io/badge/OpenCV-black?logo=OpenCV)](#)   
@@ -18,15 +18,17 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
       
 ---
 
-### H5N1 Outbreak Prediction Model
-A spatial-temporal machine learning model to forecast bird flu outbreaks using environmental, host, and location-based factors, applying Principal Component Analysis and clustering for feature optimization.
+### NLP Model
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+---
+### Transformer Model
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+---
+
+### Prediction Model
 
 ---
 
 ### Exploratory Data Analysis
 
-
+---
