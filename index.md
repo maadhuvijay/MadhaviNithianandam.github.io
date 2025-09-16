@@ -15,9 +15,10 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
 ![image](https://github.com/user-attachments/assets/87b1be22-95c9-4fc9-8423-eac1dddf2893)
 ![image](https://github.com/user-attachments/assets/b3bebc23-b2b4-4efd-bccc-144fd4e496ca)
 
-#### Gradio - User Interface
+#### Image prediction
 
-![image](https://github.com/user-attachments/assets/2d3b6549-e60c-42a6-8230-53d24e282479)
+![image](https://github.com/user-attachments/assets/a2bc7128-7184-429e-a678-8d7280206e1d)
+![image](https://github.com/user-attachments/assets/98e6d1f3-6885-4d92-8b4f-f46302225517)
 
 [View project on Github](https://github.com/maadhuvijay/Project3-Lego-Classifier)
 
