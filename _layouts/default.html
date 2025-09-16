@@ -10,9 +10,17 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+<style>
+  /* widen the page on desktop */
+  @media (min-width: 960px) {
+    .wrapper {
+      width: 92%;
+      max-width: 1200px; /* adjust to taste: 1000–1280px work well */
+      margin: 0 auto;
+    }
+  }
+</style>
+
   </head>
   <body>
     <div class="wrapper">
