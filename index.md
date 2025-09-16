@@ -9,6 +9,17 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
 
 [View code on Colab](https://colab.research.google.com/github/maadhuvijay/Project3-Lego-Classifier/blob/main/Lego_classifier_new.ipynb)
 
+## Data Pre-processing [ Resizing, Edge detection, Padding]
+
+![image](https://github.com/user-attachments/assets/9875ea42-6ec0-4648-9631-bc51be5eb111)
+
+![image](https://github.com/user-attachments/assets/c1a99fdf-dd43-4dda-812e-dc45dcfe72eb)
+
+![image](https://github.com/user-attachments/assets/11194b5a-144f-4ac5-af83-abf70c1ff81e)
+![image](https://github.com/user-attachments/assets/fe8aa147-d9af-4514-b9b7-becadd5bafc6)
+![image](https://github.com/user-attachments/assets/87b1be22-95c9-4fc9-8423-eac1dddf2893)
+![image](https://github.com/user-attachments/assets/b3bebc23-b2b4-4efd-bccc-144fd4e496ca)
+      
 ---
 
 ### H5N1 Outbreak Prediction Model
