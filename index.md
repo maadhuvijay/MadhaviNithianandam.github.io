@@ -30,6 +30,7 @@ Developed a Machile Learning model to predict the H5N1 Outbreak. A team project 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
+
 ![image](https://github.com/MaryPulley/Project_2/blob/main/Data/opt_scores.png)
 ![image](https://github.com/MaryPulley/Project_2/blob/main/Data/hpai_heatmap.png)
 ![image](https://github.com/MaryPulley/Project_2/raw/main/Data/hpao_month_distribution.png)
