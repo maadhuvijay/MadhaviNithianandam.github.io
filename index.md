@@ -1,4 +1,4 @@
-## Projects in Data science, Machine Learning and NLP
+## Projects in Machine Learning and Deep Learning
 
 
 
@@ -24,14 +24,15 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
 
 ---
 
-### NLP Model
-
----
-### Transformer Model
-
----
-
 ### Prediction Model
+
+Developed a Machile Learning model to predict the H5N1 Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Linear Regression. 
+
+![image](https://github.com/MaryPulley/Project_2/blob/main/Data/opt_scores.png)
+![image](https://github.com/MaryPulley/Project_2/blob/main/Data/hpai_heatmap.png)
+![image](https://github.com/MaryPulley/Project_2/raw/main/Data/hpao_month_distribution.png)
+
+[View project on Github](https://github.com/MaryPulley/Project_2)
 
 ---
 
