@@ -3,7 +3,7 @@
 
 
 ### AI powered Lego image classifier  
-A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
+A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. This project involves Data preparation, data pre-processing, data augmentation, model training, model optimization, model evaluation and diagnostics. 
 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#) [![](https://img.shields.io/badge/OpenAI-black?logo=OpenAI)](#)  [![](https://img.shields.io/badge/OpenCV-black?logo=OpenCV)](#)   
 
@@ -26,7 +26,9 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
 
 ### Prediction Model
 
-Developed a Machile Learning model to predict the H5N1 Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Linear Regression. 
+Developed a Machile Learning model to predict the H5N1 Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Linear Regression. This project involves data cleaning, data processing, data visualization, model training and model optimization. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
 ![image](https://github.com/MaryPulley/Project_2/blob/main/Data/opt_scores.png)
 ![image](https://github.com/MaryPulley/Project_2/blob/main/Data/hpai_heatmap.png)
@@ -38,6 +40,11 @@ Developed a Machile Learning model to predict the H5N1 Outbreak. A team project 
 
 ### Exploratory Data Analysis
 
+Performed an Exploratory data analysis on the the effect of Inflation on Housing, Unemployment and the Stock Market. A team project with my contribution towards the analysis of Customer Price Index over Housing Price Index. This analysis involves data cleaning, data processing and data visualization to analyze the trend between the two indices. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
+
+![image](images/Boxplot.png)
 ![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/HPI_Vs_CPI.png)
 ![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/hpi_foreclosures.png)
 
