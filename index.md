@@ -3,7 +3,8 @@
 
 
 ### AI powered Lego image classifier  
-A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. This project involves Data preparation, data pre-processing, data augmentation, model training, model optimization, model evaluation and diagnostics. 
+A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
+This project involves data preparation, data pre-processing, data augmentation, model training, model optimization, and model evaluation 
 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#) [![](https://img.shields.io/badge/OpenAI-black?logo=OpenAI)](#)  [![](https://img.shields.io/badge/OpenCV-black?logo=OpenCV)](#)   
 
@@ -26,13 +27,15 @@ A CNN based lego image classification model built using Tensorflow / Keras integ
 
 ### Prediction Model
 
-Developed a Machile Learning model to predict the H5N1 Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Linear Regression. This project involves data cleaning, data processing, data visualization, model training and model optimization. 
+Developed a Machine Learning model to predict the H5N1 bird flu Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Linear Regression. This project involves data cleaning, data processing, data visualization, model training and model optimization. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
 
 ![image](https://github.com/MaryPulley/Project_2/blob/main/Data/opt_scores.png)
+
 ![image](https://github.com/MaryPulley/Project_2/blob/main/Data/hpai_heatmap.png)
+
 ![image](https://github.com/MaryPulley/Project_2/raw/main/Data/hpao_month_distribution.png)
 
 [View project on Github](https://github.com/MaryPulley/Project_2)
