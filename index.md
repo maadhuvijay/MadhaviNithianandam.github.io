@@ -1,4 +1,4 @@
-## Projects in Machine Learning and Deep Learning
+## Selected projects in data Science, machine Learning and deep Learning
 
 
 
@@ -37,5 +37,11 @@ Developed a Machile Learning model to predict the H5N1 Outbreak. A team project 
 ---
 
 ### Exploratory Data Analysis
+
+![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/HPI_Vs_CPI.png)
+![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/hpi_foreclosures.png)
+
+[View project on Github](https://github.com/xraySMULu/the-big-squeeze)
+
 
 ---
