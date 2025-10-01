@@ -44,7 +44,7 @@ Developed a Machine Learning model to predict the H5N1 bird flu Outbreak. A team
 
 ### Exploratory Data Analysis
 
-Performed an Exploratory data analysis on the the effect of Inflation on Housing, Unemployment and the Stock Market. A team project with my contribution towards the analysis of Customer Price Index over Housing Price Index. This analysis involves data cleaning, data processing and data visualization to analyze the trend between the two indices. 
+Performed an Exploratory data analysis on the the effect of Inflation on Housing, Unemployment and the Stock Market. A team project with my contribution towards the analysis of Customer Price Index over Housing Price Index. This project involves data cleaning, data processing and data visualization to analyze the trend between the two indices. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
