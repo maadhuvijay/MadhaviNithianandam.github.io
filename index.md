@@ -27,7 +27,7 @@ This project involves data preparation, data pre-processing, data augmentation, 
 
 ### H5N1 Outbreak Risk Classifier
 
-Developed a Machine Learning model to predict the H5N1 bird flu Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Logistic Regression. This project involves data cleaning, data processing, data visualization, model training and model optimization. 
+Developed a machine learning model to predict H5N1 bird-flu outbreaks. Team project; my contributions focused on binary classification (Random Forest, Logistic Regression), plus data cleaning, processing, visualization, model training, and hyperparameter tuning.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
@@ -42,9 +42,9 @@ Developed a Machine Learning model to predict the H5N1 bird flu Outbreak. A team
 
 ---
 
-### Exploratory Data Analysis
+### Exploratory Analysis of CPI–HPI Trends
 
-Performed an Exploratory data analysis on the the effect of Inflation on Housing, Unemployment and the Stock Market. A team project with my contribution towards the analysis of Customer Price Index over Housing Price Index. This project involves data cleaning, data processing and data visualization to analyze the trend between the two indices. 
+Conducted an exploratory data analysis on how inflation relates to housing, unemployment, and the stock market. Led the CPI–HPI track. Cleaned and joined monthly time series, visualized trends and examined outliers. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
