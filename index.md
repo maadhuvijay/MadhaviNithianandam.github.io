@@ -25,9 +25,9 @@ This project involves data preparation, data pre-processing, data augmentation, 
 
 ---
 
-### Prediction Model
+### H5N1 Outbreak Risk Classifier
 
-Developed a Machine Learning model to predict the H5N1 bird flu Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Linear Regression. This project involves data cleaning, data processing, data visualization, model training and model optimization. 
+Developed a Machine Learning model to predict the H5N1 bird flu Outbreak. A team project with my contribution towards Binary Classification algorithms - Random Forest Classifier and Logistic Regression. This project involves data cleaning, data processing, data visualization, model training and model optimization. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
