@@ -57,7 +57,12 @@ Conducted an exploratory data analysis on how inflation relates to housing, unem
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
 
+###  Box Plot
+
 ![image](images/Boxplot.png)
+
+###  Scatter Plots
+
 ![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/HPI_Vs_CPI.png)
 ![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/hpi_foreclosures.png)
 
