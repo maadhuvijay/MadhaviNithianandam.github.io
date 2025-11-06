@@ -51,7 +51,7 @@ Developed a machine learning model to predict H5N1 bird-flu outbreaks. Team proj
 
 ---
 
-## Exploratory Analysis of CPI–HPI Trends
+## Exploratory Data Analysis (CPI–HPI Trends)
 
 Conducted an exploratory data analysis on how inflation relates to housing, unemployment, and the stock market. Led the CPI–HPI track. Cleaned and joined monthly time series, visualized trends and examined outliers. 
 
