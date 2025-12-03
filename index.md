@@ -55,6 +55,7 @@ Developed a machine learning model to predict H5N1 bird-flu outbreaks. Team proj
 
 This project explores whether search-traffic trends can offer predictive value for trading Mercado Libre (MELI) stock. Using time-series analysis on financial data and user search volumes, the analysis identifies correlations, leading indicators, and lag patterns to determine if increases in search interest translate into meaningful changes in stock price or volatility. The project applies forecasting models and statistical techniques to evaluate the potential of search-based signals as a trading strategy.
 
+![image](images/Prophet1.png)
 
 
 ## Exploratory Data Analysis (CPI–HPI Trends)
