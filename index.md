@@ -1,4 +1,4 @@
-# Selected projects in data Science, machine Learning and deep Learning
+# Selected projects in Data Science, Machine Learning, Deep Learning and Transformers
 
 
 
