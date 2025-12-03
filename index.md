@@ -21,6 +21,11 @@ This project involves data preparation, data pre-processing, data augmentation, 
 ![image](https://github.com/user-attachments/assets/a2bc7128-7184-429e-a678-8d7280206e1d)
 ![image](https://github.com/user-attachments/assets/98e6d1f3-6885-4d92-8b4f-f46302225517)
 
+
+### Interactive Gradio Interface
+
+![image](images/Lego_classifier_gradio.png)
+
 [View project on Github](https://github.com/maadhuvijay/Project3-Lego-Classifier)
 
 ---
@@ -38,6 +43,9 @@ This project demonstrates a practical understanding of modern transformer-based 
 ❓ Question Answering
 
 📝 Text Summarization
+
+
+### Interactive Gradio Interface
 
 ![image](images/NLP_gradio.png)
 
