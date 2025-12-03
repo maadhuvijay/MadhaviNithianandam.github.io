@@ -24,6 +24,20 @@ This project involves data preparation, data pre-processing, data augmentation, 
 [View project on Github](https://github.com/maadhuvijay/Project3-Lego-Classifier)
 
 ---
+## NLP Transformer Application Suite – Hugging Face 
+
+Built a complete suite of Natural Language Processing (NLP) applications using state-of-the-art Hugging Face Transformer models.
+This project demonstrates a practical understanding of modern transformer-based NLP techniques. Using Python and Hugging Face Transformers, I implemented applications for:
+
+🌍 Language Translation
+
+✨ Text Generation
+
+❓ Question Answering
+
+📝 Text Summarization
+
+
 
 ## H5N1 Outbreak Risk Classifier
 
