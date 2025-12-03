@@ -29,6 +29,8 @@ This project involves data preparation, data pre-processing, data augmentation, 
 Built a complete suite of Natural Language Processing (NLP) applications using state-of-the-art Hugging Face Transformer models.
 This project demonstrates a practical understanding of modern transformer-based NLP techniques. Using Python and Hugging Face Transformers, I implemented applications for:
 
+[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#)  
+
 🌍 Language Translation
 
 ✨ Text Generation
@@ -37,7 +39,7 @@ This project demonstrates a practical understanding of modern transformer-based 
 
 📝 Text Summarization
 
-
+![image](images/NLP_gradio.png)
 
 ## H5N1 Outbreak Risk Classifier
 
