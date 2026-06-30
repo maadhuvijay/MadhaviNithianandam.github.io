@@ -37,6 +37,9 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
 At a high level, 𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞 uses tool calling with a deterministic backend. Custom tools were used to read the database schema, execute the queries, and clarify user request. 
 
+### Demo
+[![Watch Demo](images/Springscope.webp)](https://youtu.be/U_ptngr5CnP4g)
+
 ## Insomnia - Building with Intention
 
 **Insomnia**, is an open-source desktop application and an alternative to **Postman**, where I added new features by first understanding the existing codebase and then applying **_a spec-driven_**, AI-forward approach defining success through specifications, user stories, and acceptance criteria before writing code.
