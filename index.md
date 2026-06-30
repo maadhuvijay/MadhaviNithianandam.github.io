@@ -56,7 +56,7 @@ Using this approach, I implemented the following features in Insomnia:
  Enables one-click copying of a clean, human-readable response summary for sharing in tickets, chats, or documentation.
 
 #### Demo Video
-[![Watch Demo](images/Convobridge.webp)](https://youtu.be/U_BI5UBs7edDE)
+[![Watch Demo](images/Insomnia.jpg)](https://youtu.be/BI5UBs7edDE)
 
 ## AI powered Lego image classifier  
 A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
