@@ -39,7 +39,7 @@ This is an AI-powered natural language interface for querying sprint data and tr
 
 
 #### Demo Video
-[![Watch Demo](images/Springscope.webp)](https://youtu.be/U_ptngr5CnP4g)
+[![Watch Demo](images/Springscope.webp)](https://youtu.be/ptngr5CnP4g)
 
 
 
