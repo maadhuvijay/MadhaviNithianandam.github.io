@@ -16,7 +16,7 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/50757602-a2ca-42b6-94a5-c84000a04553" />
 
-### Demo
+#### Demo Video
 [![Watch Demo](images/Convobridge.webp)](https://youtu.be/U_RANrwMJfw)
 
 ## SprintScope
@@ -37,7 +37,7 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
 At a high level, 𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞 uses tool calling with a deterministic backend. Custom tools were used to read the database schema, execute the queries, and clarify user request. 
 
-### Demo
+#### Demo Video
 [![Watch Demo](images/Springscope.webp)](https://youtu.be/U_ptngr5CnP4g)
 
 ## Insomnia - Building with Intention
@@ -55,6 +55,8 @@ Using this approach, I implemented the following features in Insomnia:
 ***Copy Response Summary Action***
  Enables one-click copying of a clean, human-readable response summary for sharing in tickets, chats, or documentation.
 
+#### Demo Video
+[![Watch Demo](images/Convobridge.webp)](https://youtu.be/U_BI5UBs7edDE)
 
 ## AI powered Lego image classifier  
 A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
