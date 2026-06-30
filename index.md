@@ -1,5 +1,51 @@
 # Selected projects in Data Science, Machine Learning, Deep Learning and Transformers
 
+## ConvoBridge – An AI-Powered Conversation Practice Platform for Autistic youth 
+ConvoBridge is designed to help individuals with autism learn and navigate conversations at their pace, in their way.
+Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
+
+***Orchestrator Agent***    : the brain. It reads the room: how long is the user responding? Are they engaged? How's their speech clarity trending? Based on that, it picks from 9 conversation dimensions (Basic Preferences → Emotional → Reflective → Social Context, etc.) and adjusts sentence difficulty accordingly.
+
+***Conversation Agent***    : generates the actual questions, always following an "Acknowledgement + Personal Preference + Question" format so interactions feel natural, not clinical.
+
+***Response Agent***        : offers 2 topic-specific response options (+ "choose your own") so users never feel stuck staring at a blank screen.
+
+***Vocabulary Agent***      : surfaces a contextually relevant word from each question to quietly build language skills.
+
+***Speech Analysis Agent*** : transcribes responses via Whisper, scores clarity and pace, and feeds that back to the Orchestrator to influence the next question's difficulty.
+
+## SprintScope
+𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞:  is an AI-powered natural language interface for querying sprint and issue tracking data using 𝐭𝐨𝐨𝐥 𝐜𝐚𝐥𝐥𝐢𝐧𝐠. It enables users to interact with their database using 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑞𝑢𝑒𝑟𝑖𝑒𝑠, automatically 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑎𝑛𝑑 𝑒𝑥𝑒𝑐𝑢𝑡𝑖𝑛𝑔 𝐒𝐐𝐋 queries while providing transparent insights into the query process.
+
+𝐂𝐨𝐫𝐞 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬
+
+𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒕𝒐 𝑺𝑸𝑳: Converts user questions into optimized SQL queries
+
+𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝑪𝒍𝒂𝒓𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏: Asks for clarification when queries are ambiguous
+
+𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 𝑺𝑸𝑳 𝑹𝒆𝒑𝒂𝒊𝒓: Self-corrects SQL errors using LLM-powered repair
+
+𝑻𝒓𝒂𝒏𝒔𝒑𝒂𝒓𝒆𝒏𝒕 𝑬𝒙𝒆𝒄𝒖𝒕𝒊𝒐𝒏: Shows generated SQL, results, assumptions, and execution metadata
+
+𝑪𝒐𝒏𝒕𝒆𝒙𝒕-𝑨𝒘𝒂𝒓𝒆 𝑺𝒖𝒈𝒈𝒆𝒔𝒕𝒊𝒐𝒏𝒔: Provides relevant follow-up questions based on query results
+
+
+At a high level, 𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞 uses tool calling with a deterministic backend. Custom tools were used to read the database schema, execute the queries, and clarify user request. 
+
+## Insomnia - Building with Intention
+
+**Insomnia**, is an open-source desktop application and an alternative to **Postman**, where I added new features by first understanding the existing codebase and then applying **_a spec-driven_**, AI-forward approach defining success through specifications, user stories, and acceptance criteria before writing code.
+
+Using this approach, I implemented the following features in Insomnia:
+
+***HTTP Status Code Helper***
+ Provides clear, contextual explanations of response codes, reducing the need to look up external documentation.
+
+***Response Time SLA Indicator***
+ Adds an immediate performance signal that classifies responses as fast, moderate, or slow.
+
+***Copy Response Summary Action***
+ Enables one-click copying of a clean, human-readable response summary for sharing in tickets, chats, or documentation.
 
 
 ## AI powered Lego image classifier  
@@ -49,63 +95,3 @@ This project demonstrates a practical understanding of modern transformer-based 
 
 ![image](images/NLP_gradio.png)
 
-## H5N1 Outbreak Risk Classifier
-
-Developed a machine learning model to predict H5N1 bird-flu outbreaks. Team project; my contributions focused on binary classification (Random Forest, Logistic Regression), plus data cleaning, processing, visualization, model training, and hyperparameter tuning.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
-
-
-###  Hyperparameter tuning: 
-
-![image](images/opt_scores.png)
-
-
-
-###  Correlation Heatmap
-![image](images/hpai_heatmap.png)
-
-
-
-###  Monthly Distribution of Outbreaks: 
-![image](https://github.com/MaryPulley/Project_2/raw/main/Data/hpao_month_distribution.png)
-
-
-[View project on Github](https://github.com/MaryPulley/Project_2)
-
----
-
-## Time Series forecasting with Prophet
-
-This project explores whether search-traffic trends can offer predictive value for trading Mercado Libre (MELI) stock. Using time-series analysis on financial data and user search volumes, the analysis identifies correlations, leading indicators, and lag patterns to determine if increases in search interest translate into meaningful changes in stock price or volatility. The project applies forecasting models and statistical techniques to evaluate the potential of search-based signals as a trading strategy.
-
-###  Stock closing price vs Search Trend Data
-
-![image](images/Prophet1.png)
-
-###  Prophet forecasting plot
-
-![image](images/Prophet_predictions.png)
-
-
-[View project on Github](https://github.com/maadhuvijay/prophet-challenge)
-
-## Exploratory Data Analysis (CPI–HPI Trends)
-
-Conducted an exploratory data analysis on how inflation relates to housing, unemployment, and the stock market. Led the CPI–HPI track. Cleaned and joined monthly time series, visualized trends and examined outliers. 
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPY-blue?logo=NumPY)](#) 
-
-###  Box Plot
-
-![image](images/Boxplot.png)
-
-###  Scatter Plots
-
-![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/HPI_Vs_CPI.png)
-![image](https://github.com/xraySMULu/the-big-squeeze/raw/master/Resources/content/hpi_foreclosures.png)
-
-[View project on Github](https://github.com/xraySMULu/the-big-squeeze)
-
-
----
