@@ -16,6 +16,8 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/50757602-a2ca-42b6-94a5-c84000a04553" />
 
+### Demo
+[![Watch Demo](images/Convobridge.webp)](https://youtu.be/U_RANrwMJfw)
 
 ## SprintScope
 𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞:  is an AI-powered natural language interface for querying sprint and issue tracking data using 𝐭𝐨𝐨𝐥 𝐜𝐚𝐥𝐥𝐢𝐧𝐠. It enables users to interact with their database using 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑞𝑢𝑒𝑟𝑖𝑒𝑠, automatically 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑎𝑛𝑑 𝑒𝑥𝑒𝑐𝑢𝑡𝑖𝑛𝑔 𝐒𝐐𝐋 queries while providing transparent insights into the query process.
