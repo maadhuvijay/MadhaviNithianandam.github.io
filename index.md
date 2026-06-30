@@ -14,7 +14,7 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
 ***Speech Analysis Agent*** : transcribes responses via Whisper, scores clarity and pace, and feeds that back to the Orchestrator to influence the next question's difficulty.
 
-<img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/50757602-a2ca-42b6-94a5-c84000a04553" />
+[![Architecture Diagram](images/architecture.png)](images/architecture.png)
 
 #### Demo Video 
 [![Watch Demo](images/Convobridge.webp)](https://youtu.be/U_RANrwMJfw)
