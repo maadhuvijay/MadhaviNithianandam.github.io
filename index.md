@@ -119,6 +119,10 @@ Low confidence or detected ambiguity automatically triggers review.
 Allows the user to copy the full structured output for downstream use.
 
 #### Demo Screenshots
+[![IntentSense Interface Diagram](images/SS_intent.png)](images/SS_intent.png)
+
+[![IntentSense Interface Diagram](images/SS_us.png)](images/SS_us.png)
+
 
 
 ## 5. AI powered Lego image classifier  
