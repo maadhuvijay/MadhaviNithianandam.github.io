@@ -1,6 +1,6 @@
 # Featured AI Engineering Projects
 
-## ConvoBridge – A Multi-Agent Conversation Practice Platform for Autistic youth 
+## 1. ConvoBridge – A Multi-Agent Conversation Practice Platform for Autistic youth 
 ConvoBridge is designed to help individuals with autism learn and navigate conversations at their pace, in their way.
 Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
@@ -16,11 +16,13 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/50757602-a2ca-42b6-94a5-c84000a04553" />
 
-#### Demo Video
+#### Demo Video 
 [![Watch Demo](images/Convobridge.webp)](https://youtu.be/U_RANrwMJfw)
 
-## SprintScope
-𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞:  is an AI-powered natural language interface for querying sprint and issue tracking data using 𝐭𝐨𝐨𝐥 𝐜𝐚𝐥𝐥𝐢𝐧𝐠. It enables users to interact with their database using 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑞𝑢𝑒𝑟𝑖𝑒𝑠, automatically 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑎𝑛𝑑 𝑒𝑥𝑒𝑐𝑢𝑡𝑖𝑛𝑔 𝐒𝐐𝐋 queries while providing transparent insights into the query process.
+
+
+## 2. SprintScope
+This is an AI-powered natural language interface for querying sprint and issue tracking data using 𝐭𝐨𝐨𝐥 𝐜𝐚𝐥𝐥𝐢𝐧𝐠. It enables users to interact with their database using 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑞𝑢𝑒𝑟𝑖𝑒𝑠, automatically 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑎𝑛𝑑 𝑒𝑥𝑒𝑐𝑢𝑡𝑖𝑛𝑔 𝐒𝐐𝐋 queries while providing transparent insights into the query process.
 
 𝐂𝐨𝐫𝐞 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬
 
@@ -35,12 +37,13 @@ Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 𝑪𝒐𝒏𝒕𝒆𝒙𝒕-𝑨𝒘𝒂𝒓𝒆 𝑺𝒖𝒈𝒈𝒆𝒔𝒕𝒊𝒐𝒏𝒔: Provides relevant follow-up questions based on query results
 
 
-At a high level, 𝐒𝐩𝐫𝐢𝐧𝐭𝐒𝐜𝐨𝐩𝐞 uses tool calling with a deterministic backend. Custom tools were used to read the database schema, execute the queries, and clarify user request. 
 
 #### Demo Video
 [![Watch Demo](images/Springscope.webp)](https://youtu.be/U_ptngr5CnP4g)
 
-## Insomnia - Building with Intention
+
+
+## 3. Insomnia - Building with Intention
 
 **Insomnia**, is an open-source desktop application and an alternative to **Postman**, where I added new features by first understanding the existing codebase and then applying **_a spec-driven_**, AI-forward approach defining success through specifications, user stories, and acceptance criteria before writing code.
 
@@ -54,11 +57,13 @@ Using this approach, I implemented the following features in Insomnia:
 
 ***Copy Response Summary Action***
  Enables one-click copying of a clean, human-readable response summary for sharing in tickets, chats, or documentation.
-
+ 
 #### Demo Video
 [![Watch Demo](images/Insomnia.jpg)](https://youtu.be/BI5UBs7edDE)
 
-## AI powered Lego image classifier  
+
+
+## 4. AI powered Lego image classifier  
 A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
 This project involves data preparation, data pre-processing, data augmentation, model training, model optimization, and model evaluation 
 
@@ -85,12 +90,11 @@ This project involves data preparation, data pre-processing, data augmentation, 
 [View project on Github](https://github.com/maadhuvijay/Project3-Lego-Classifier)
 
 ---
-## NLP Transformer Application Suite – Hugging Face 
+## 5. NLP Transformer Application Suite – Hugging Face 
 
 Built a complete suite of Natural Language Processing (NLP) applications using state-of-the-art Hugging Face Transformer models.
 This project demonstrates a practical understanding of modern transformer-based NLP techniques. Using Python and Hugging Face Transformers, I implemented applications for:
 
-[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#)  
 
 🌍 Language Translation
 
@@ -100,6 +104,7 @@ This project demonstrates a practical understanding of modern transformer-based 
 
 📝 Text Summarization
 
+[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/keras-black?logo=keras)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/pandas-black?logo=pandas)](#) [![](https://img.shields.io/badge/gradio-white?logo=gradio)](#)  
 
 ### Interactive Gradio Interface
 
