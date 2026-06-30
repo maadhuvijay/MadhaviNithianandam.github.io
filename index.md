@@ -62,8 +62,66 @@ Using this approach, I implemented the following features in Insomnia:
 [![Watch Demo](images/Insomnia.jpg)](https://youtu.be/BI5UBs7edDE)
 
 
+## 4. IntentSense
+IntentSense is an AI-powered text labeling interface built to explore how real-world text annotation workflows can be designed using large language models.
 
-## 4. AI powered Lego image classifier  
+The interface follows a two-panel layout that clearly separates human-controlled inputs from model-generated outputs:
+
+### LEFT PANEL
+What the user asks the system to do
+
+### RIGHT PANEL
+What the model produces and how confident it is
+
+────────────────────────
+
+#### LEFT PANEL: INPUT & CONFIGURATION
+The left side represents the Labeling Control Surface everything the user explicitly defines before invoking the model.
+
+1️⃣ Labeling Task  
+A dropdown that lets the user choose the type of labeling task:
+- Intent Classification  
+- Sentiment Analysis  
+- User Signal Classification  
+
+**User Signal Classification** is a custom task designed to detect implicit behavioral signals rather than explicit intent or emotional tone, such as:
+- implicit_expectation  
+- frustration_signal  
+- blocked_progress  
+- workaround_seeking  
+
+2️⃣ Labeling Mode  
+A toggle that allows the user to choose between:
+- Zero-shot (no examples provided)  
+- Few-shot (static examples included in the prompt)
+
+3️⃣ Text Input  
+A multiline text area where the user enters the raw text to be labeled.
+
+
+### RIGHT PANEL: OUTPUT & REVIEW
+The right side represents the Model Response & Evaluation Surface everything produced after inference.
+
+1️⃣ Label Output  
+Displays the final predicted label (e.g., neutral).
+
+2️⃣ Confidence Score  
+A visual progress bar paired with a numeric confidence value.
+
+3️⃣ Ambiguity Flag  
+Indicates whether the input text is considered ambiguous.
+
+4️⃣ Human Review Flag  
+Indicates whether the output should be reviewed by a human.  
+Low confidence or detected ambiguity automatically triggers review.
+
+5️⃣ Copy JSON  
+Allows the user to copy the full structured output for downstream use.
+
+#### Demo Screenshots
+
+
+## 5. AI powered Lego image classifier  
 A CNN based lego image classification model built using Tensorflow / Keras integrating Gradio UI and OpenAI Text-To-Speech for interactive user feedback. 
 This project involves data preparation, data pre-processing, data augmentation, model training, model optimization, and model evaluation 
 
@@ -90,7 +148,7 @@ This project involves data preparation, data pre-processing, data augmentation, 
 [View project on Github](https://github.com/maadhuvijay/Project3-Lego-Classifier)
 
 ---
-## 5. NLP Transformer Application Suite – Hugging Face 
+## 6. NLP Transformer Application Suite – Hugging Face 
 
 Built a complete suite of Natural Language Processing (NLP) applications using state-of-the-art Hugging Face Transformer models.
 This project demonstrates a practical understanding of modern transformer-based NLP techniques. Using Python and Hugging Face Transformers, I implemented applications for:
