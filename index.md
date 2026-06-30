@@ -1,6 +1,6 @@
-# Selected projects in Data Science, Machine Learning, Deep Learning and Transformers
+# Featured AI Engineering Projects
 
-## ConvoBridge – An AI-Powered Conversation Practice Platform for Autistic youth 
+## ConvoBridge – A Multi-Agent Conversation Practice Platform for Autistic youth 
 ConvoBridge is designed to help individuals with autism learn and navigate conversations at their pace, in their way.
 Under the hood, ConvoBridge runs a **multi-agent architecture** built with Agno:
 
